@@ -4,15 +4,15 @@
 This exercise is adapted from [Stanford's CS231n](http://cs231n.stanford.edu/):
 
 #### Procedure:
-1. Set up your computing environment
+1. Set up your computing environment.
  - Download Anaconda: Anaconda Distribution Python 3.7
  - Getting started with Anaconda: https://docs.anaconda.com/anaconda/install/
  - Recommended: download/install a fully featured text editor: e.g., Sublime or Atom or VS Code. 
 
-2. Read Stanford CS 231n course notes & slides on image classification 
+2. Read Stanford CS 231n course notes & slides on image classification.
  - Intro to image classification: http://cs231n.github.io/classification/
  
-3. Download assignment code by cloning this repo
+3. Download assignment starter code by cloning this repo or downloading as zipped folder.
 - Download CIFAR-10 dataset
   Open the Terminal app and navigate to this repo using `cd` then run the included bash script to download data.
 ```
