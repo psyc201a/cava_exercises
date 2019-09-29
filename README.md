@@ -1,2 +1,2 @@
-# cava_exercises
-technical exercises for PSYC 272: CAVA
+# PSYC 272: Computational Approaches to Visual Abstraction (CAVA)
+## Technical Exercises
