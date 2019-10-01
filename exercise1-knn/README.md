@@ -29,6 +29,10 @@ There are START OF YOUR CODE & END OF YOUR CODE tags denoting the start and end 
 
 This code has been tested to be compatible with python version 3.7. You will need to make sure that during your virtual environment setup (managing your python environment using conda is recommended) that the correct version of python is used. 
 
+#### Tips:
+- If you run into an error where you can't import the module `past`, you may need to run this command in your Terminal: 
+`pip install future`
+
 #### Resources:
  - Python for R users (Datacamp): https://www.datacamp.com/courses/python-for-r-users
  - Jupyter: https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46
