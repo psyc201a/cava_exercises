@@ -38,5 +38,6 @@ This code has been tested to be compatible with python version 3.7. You will nee
  - Jupyter: https://medium.com/codingthesmartway-com-blog/getting-started-with-jupyter-notebook-for-python-4e7082bd5d46
  - Python/NumPy: http://cs231n.github.io/python-numpy-tutorial/ 
  - 3Blue1Brown on Calculus: https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr
+ - MIT OCW on Calculus:  https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/course-introduction/ 
  - Deep Learning Book on Linear Algebra: https://www.deeplearningbook.org/contents/linear_algebra.html
  - Metacademy for everything else: https://metacademy.org/ 
