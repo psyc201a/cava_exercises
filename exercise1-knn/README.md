@@ -20,7 +20,7 @@ This exercise is adapted from [Stanford's CS231n](http://cs231n.stanford.edu/):
   ./get_datasets.sh
 ```
 - Launch jupyter notebook server from the `exercise1-knn` directory.
-- Submit assignment files by 4pm on 10/7 via file upload on Canvas
+- Submit assignment files by 4pm on 10/14 via file upload on Canvas
    - `psyc272-cava-knn-yourname.ipynb`
    - `k_nearest_neighbor.py`
 
