@@ -7,7 +7,7 @@ This exercise is adapted from [Stanford's CS231n](http://cs231n.stanford.edu/):
 
 1. Read Stanford CS 231n course notes on linear classification and optimization. Ask questions and discuss concepts with your neighbors as you go through the material.
  - Intro to linear classifiers: http://cs231n.github.io/linear-classify/
- - Intro top optimization and gradient descent: http://cs231n.github.io/optimization-1/
+ - Intro to optimization and gradient descent: http://cs231n.github.io/optimization-1/
  - Review of image classifiers (knn): http://cs231n.github.io/classification/
 
 2. Download assignment starter code by cloning this repo or downloading as zipped folder.
