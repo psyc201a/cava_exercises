@@ -13,7 +13,7 @@ This exercise is adapted from [Stanford's CS231n](http://cs231n.stanford.edu/):
 2. Download assignment starter code by cloning this repo or downloading as zipped folder.
 - Copy/move/re-download CIFAR-10 dataset to `/exercise2-linear/psych272cava/datasets/`. 
 - Launch jupyter notebook server from the `exercise2-linear` directory.
-- Submit assignment files by 4pm on 10/28 via file upload on Canvas
+- Submit assignment files by 4pm on 10/28 via file upload on Canvas, replacing `yourname` with your UCSD AD username.
    - `psyc272-cava-svm-yourname.ipynb`
    - `psyc272-cava-softmax-yourname.ipynb`
    - `linear_classifier.py`
